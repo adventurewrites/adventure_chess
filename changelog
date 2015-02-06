@@ -1,0 +1,19 @@
+2008-12-06
+Adventure Chess 0.039 delivered
+Bugs fixed:
+- Queen move from left edge to right edge of board.
+- Check in three moves.
+Features:
+- A little engine tuning.
+
+2008-11-23
+Adventure Chess 0.031 delivered
+Bugs fixed:
+- Castling under check.
+- Knight check from edges of the board.
+- Wall checking during knight, rook, queen and king moves fixed
+Features:
+- Time of engine thinking measurement added.
+
+2008-11-20
+Adventure Chess 0.028 delivered - this is first "playable" version of the game
